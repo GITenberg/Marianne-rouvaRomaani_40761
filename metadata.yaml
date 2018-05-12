@@ -1,0 +1,38 @@
+_repo: Marianne-rouvaRomaani_40761
+_version: 0.1.0
+alternative_title: Fru Marianne. Finnish
+contributor:
+  translator:
+    agent_name: Dahlberg, Auk.
+    gutenberg_agent_id: '40811'
+    url: http://www.gutenberg.org/2009/agents/40811
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Benedictsson, Victoria
+    aliases:
+    - Benedictsson, Victoria Maria Bruzelius
+    - Ahlgren, Ernst
+    birthdate: 1850
+    deathdate: 1888
+    gutenberg_agent_id: '6211'
+    url: http://www.gutenberg.org/2009/agents/6211
+    wikipedia:
+    - http://sv.wikipedia.org/wiki/Victoria_Benedictsson
+    - http://en.wikipedia.org/wiki/Victoria_Benedictsson
+description: ''
+gutenberg_issued: '2012-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40761'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+title: 'Marianne-rouva: Romaani'
+url: http://www.gutenberg.org/ebooks/40761
